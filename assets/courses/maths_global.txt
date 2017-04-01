@@ -1,0 +1,9 @@
+<p>Méthode pour réussir les maths à tous les niveaux ;</p>
+<p>Afin de mieux réussir et mieux comprendre les maths, nous pouvons adapter chaque problème ou chaque question mathématique à une situation de la vie courante.
+<p>Par exemple si on aime cuisiner, nous pouvons comparer une question mathématique à la préparation d’un gâteau (il faut d’abord voir si on a tous les ingrédients nécessaires à la fabrication du gâteau, ensuite il faut les poser sur le plan de travail, poser le livre à la bonne page de la recette, faire les choses dans l’ordre au fur et à mesure).</p>
+<p>Si on aime le sport, on peut comparer la question à un entraînement de sport (d’abord se changer, ensuite s’échauffer, s’entraîner, puis jouer).</p>
+<p>Si on fait de la musique, on doit avant tout prendre des cours de solfèges avant de savoir lire les notes, ensuite, il faut savoir à quoi correspondent les notes par rapport à l’instrument (en l’occurrence, au piano, il faut connaître les touches avant de pouvoir jouer). Après il y a tout un travail au niveau de la synchronisation et de l’ordre des choses.</p>
+<p>En comparant les exercices de maths à des situations de la vie courante, nous aurons donc plus envie de faire des maths et ainsi, nous apprendrons mieux et nous nous entraînerons mieux.</p>
+<p>Que ce soit pour faire un gâteau, ou lors de la pratique d’une activité physique ou d’un instrument, il faut faire chaque chose après l’autre, avoir de la patience, être attentif à faire les choses dans un ordre donné.</p>
+<img style="width: 600px;" src="/img/maths_exemple.png">
+<p>On ne devient meilleur qu’en s’entraînant et en apprenant de nos erreurs, apprenons grâce à nos fautes et faisons des exercices pour ne plus avoir peur.</p>

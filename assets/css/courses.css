@@ -1,0 +1,20 @@
+body {
+    background: rgb(20, 30, 40);
+}
+.courseTitle {
+    position: absolute;
+    background: rgb(0, 95, 150);
+
+    width: 100%;
+    text-align: center;
+    font-family: "Segoe UI Light", sans-serif;
+    color: white;
+    margin-top: -75px;
+}
+.content {
+    margin-top: 160px;
+    color: white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}

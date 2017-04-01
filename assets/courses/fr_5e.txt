@@ -1,0 +1,10 @@
+<p>Un poème est un récit écrit en vers. C’est l’art d’évoquer, de suggérer des sensations, des impressions, des émotions grâce au rythme, aux rimes, aux syllabes ou encore aux différentes figures de style.</p>
+<p>Par exemple dans le poème de fin du livre  Encre de Chine, mes petits poèmes, les rimes sont embrassées et chaque vers a sept syllabes, soit des heptasyllabes.</p>
+<p>Chaque mot donne une vibration,<br>
+Chaque phrase peut vous faire rêver,<br>
+Chaque rime vous fait voyager,<br>
+Au plus profond de vos émotions.</p>
+<p style="text-align: center;">Mylène Noé Meng Ying</p>
+<p>Grâce aux différents sons, au rythme, aux rimes et aux syllabes, le poème est un art à part entière. Il met non seulement en avant l’intelligence verbo-linguistique mais aussi l’intelligence musicale, qui elle, se reconnaît grâce aux sons, aux rythmes et aux paroles.</p>
+<br>
+<img style="width: 600px;" src="/img/verbo-linguistique.png">

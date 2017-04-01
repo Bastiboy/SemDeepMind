@@ -1,0 +1,87 @@
+/*********/
+/*SIGN_UP*/
+/*********/
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.formulaire {
+    border: solid 1px gray;
+    border-radius: 5px;
+    height: 200px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+.alreadyAccount {
+    text-align: center;
+    margin-top: 50px;
+}
+.loginHref {
+    color: rgb(0, 100, 210);
+}
+.formulaire_inputs {
+    width: 400px;
+    margin: 50px;
+    font-size: 20px;
+}
+.blueButton {
+    text-align: center;
+    color: white;
+    background: rgb(0, 125, 179);
+    border: solid 0px white;
+    border-radius: 5px;
+
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+    outline: none;
+
+    font-size: 20px;
+}
+.blueButton:hover {
+    background: rgb(0, 135, 190);
+}
+.blueButton:active {
+    background: rgb(0, 145, 200);
+}
+
+/**************************************/
+/*POPUP TEST D'INTELLIGENCES MULTIPLES*/
+/**************************************/
+.intelligenceTest {
+    z-index: 999;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background: white;
+    /*border: solid 1px gray;*/
+    /*border-radius: 5px;*/
+
+    width: 100%;
+    position: absolute;
+
+    display: none;
+
+}
+.valider {
+    background: rgb(0, 145, 200);
+}
+.closepopup {
+    float: right;
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 20px;
+}
+h3 {
+    text-align: center;
+}
+.explication {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}

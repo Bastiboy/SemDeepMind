@@ -1,0 +1,63 @@
+html body {margin: 0 ; padding: 0; height: 100%;} /* Reset de la mini marge de page */
+/*********/
+/*NAV BAR*/
+/*********/
+body {
+    font-family: "Segoe UI", sans-serif;
+}
+header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+    background: rgb(0, 125, 179);
+    color: white;
+
+    display: inline-block;
+}
+header h1 {
+    font-family: "Segoe UI Light", sans-serif;
+    margin-left: 20px;
+    float: left;
+}
+header ul {
+    float: right;
+    list-style: none;
+    margin-right: 20px;
+    display: inline;
+    margin-top: 25px;
+}
+
+header ul li {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: solid white 3px;
+    border-radius: 30px;
+    font-size: 25px;
+    background: rgb(0, 135, 195);
+    display: inline;
+    margin-left: 10px;
+}
+
+header ul li a:link {
+    color: white;
+    text-decoration: none;
+}
+header ul li a:hover {
+    text-decoration: underline;
+}
+header ul li a:visited {
+    color: white;
+}
+.active {
+    text-decoration: underline;
+}
+
+/*********/
+/*CONTENT*/
+/*********/
+.content {
+    margin-top: 100px;
+}

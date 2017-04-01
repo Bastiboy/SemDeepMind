@@ -1,0 +1,31 @@
+body {
+    background: rgb(20, 30, 40);
+}
+table {
+    table-layout: fixed;
+}
+.content {
+    margin-top: 85px;
+}
+.card {
+    background: rgb(240, 240, 240);
+    width: 2%; /* or 100% according to OP comment. See edit about Safari 6 below */
+
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+
+    cursor: pointer;
+}
+.card:active {
+    cursor: default;
+}
+.card img {
+    width: 200px;
+}
+.card p {
+    text-align: center;
+}
+.card_list {
+    display: inline;
+}
