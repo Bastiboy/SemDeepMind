@@ -9,7 +9,7 @@ var NodeSession = require('node-session');
 
 app = express();
 
-var port = 8080;
+var port = process.env.PORT || 8080;
 var session = new NodeSession({secret: 'Q3UBzdH9GEfiRCTKbi5MTPyChpzXLsTD'});
 
 
